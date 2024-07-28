@@ -1,0 +1,3 @@
+1. /Post when sending the post, the code doesnt support holding more than 18 quotes. it would fail when we send the 19th quote
+2. /Get when adding more than 12 quotes, the ids are not sorted properly
+3. /Reset when sending the reset the first, we would get a 501 error, the subsequent reset would succeed
